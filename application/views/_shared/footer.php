@@ -25,7 +25,6 @@
 		<script src="../../assets/js/core/source/AppNavSearch.js"></script>
 		<script src="../../assets/js/core/source/AppVendor.js"></script>
 		<script src="../../assets/js/core/demo/Demo.js"></script>
-		<script src="../../assets/js/core/demo/DemoDashboard.js"></script>
 		<!-- END JAVASCRIPT -->
 
 	</body>
