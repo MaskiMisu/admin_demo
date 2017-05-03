@@ -25,7 +25,14 @@
 		<script src="../../assets/js/core/source/AppNavSearch.js"></script>
 		<script src="../../assets/js/core/source/AppVendor.js"></script>
 		<script src="../../assets/js/core/demo/Demo.js"></script>
+		<script src="../../assets/js/core/demo/DemoDashboard.js"></script>
 		<!-- END JAVASCRIPT -->
+		<div id="device-breakpoints">
+		<div class="device-xs visible-xs" data-breakpoint="xs"></div>
+		<div class="device-sm visible-sm" data-breakpoint="sm"></div>
+		<div class="device-md visible-md" data-breakpoint="md"></div>
+		<div class="device-lg visible-lg" data-breakpoint="lg"></div>
+		</div>
 
 	</body>
 </html>
