@@ -12,18 +12,18 @@
 
 		<!-- BEGIN STYLESHEETS -->
 		<link href='http://fonts.googleapis.com/css?family=Roboto:300italic,400italic,300,400,500,700,900' rel='stylesheet' type='text/css'/>
-		<link type="text/css" rel="stylesheet" href="../../assets/css/theme-default/bootstrap.css?1422792965" />
-		<link type="text/css" rel="stylesheet" href="../../assets/css/theme-default/materialadmin.css?1425466319" />
-		<link type="text/css" rel="stylesheet" href="../../assets/css/theme-default/font-awesome.min.css?1422529194" />
-		<link type="text/css" rel="stylesheet" href="../../assets/css/theme-default/material-design-iconic-font.min.css?1421434286" />
-		<link type="text/css" rel="stylesheet" href="../../assets/css/theme-default/libs/rickshaw/rickshaw.css?1422792967" />
-		<link type="text/css" rel="stylesheet" href="../../assets/css/theme-default/libs/morris/morris.core.css?1420463396" />
+		<link type="text/css" rel="stylesheet" href="public/assets/css/theme-default/bootstrap.css?1422792965" />
+		<link type="text/css" rel="stylesheet" href="public/assets/css/theme-default/materialadmin.css?1425466319" />
+		<link type="text/css" rel="stylesheet" href="public/assets/css/theme-default/font-awesome.min.css?1422529194" />
+		<link type="text/css" rel="stylesheet" href="public/assets/css/theme-default/material-design-iconic-font.min.css?1421434286" />
+		<link type="text/css" rel="stylesheet" href="public/assets/css/theme-default/libs/rickshaw/rickshaw.css?1422792967" />
+		<link type="text/css" rel="stylesheet" href="public/assets/css/theme-default/libs/morris/morris.core.css?1420463396" />
 		<!-- END STYLESHEETS -->
 
 		<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 		<!--[if lt IE 9]>
-		<script type="text/javascript" src="../../assets/js/libs/utils/html5shiv.js?1403934957"></script>
-		<script type="text/javascript" src="../../assets/js/libs/utils/respond.min.js?1403934956"></script>
+		<script type="text/javascript" src="public/assets/js/libs/utils/html5shiv.js?1403934957"></script>
+		<script type="text/javascript" src="public/assets/js/libs/utils/respond.min.js?1403934956"></script>
 		<![endif]-->
 	</head>
 	<body class="menubar-hoverable header-fixed ">
@@ -68,14 +68,14 @@
 								<li class="dropdown-header">Today's messages</li>
 								<li>
 									<a class="alert alert-callout alert-warning" href="javascript:void(0);">
-										<img class="pull-right img-circle dropdown-avatar" src="../../assets/img/avatar2.jpg?1404026449" alt="" />
+										<img class="pull-right img-circle dropdown-avatar" src="public/assets/img/avatar2.jpg?1404026449" alt="" />
 										<strong>Alex Anistor</strong><br/>
 										<small>Testing functionality...</small>
 									</a>
 								</li>
 								<li>
 									<a class="alert alert-callout alert-info" href="javascript:void(0);">
-										<img class="pull-right img-circle dropdown-avatar" src="../../assets/img/avatar3.jpg?1404026799" alt="" />
+										<img class="pull-right img-circle dropdown-avatar" src="public/assets/img/avatar3.jpg?1404026799" alt="" />
 										<strong>Alicia Adell</strong><br/>
 										<small>Reviewing last changes...</small>
 									</a>
@@ -124,7 +124,7 @@
 					<ul class="header-nav header-nav-profile">
 						<li class="dropdown">
 							<a href="javascript:void(0);" class="dropdown-toggle ink-reaction" data-toggle="dropdown">
-								<img src="../../assets/img/avatar1.jpg?1403934956" alt="" />
+								<img src="public/assets/img/avatar1.jpg?1403934956" alt="" />
 								<span class="profile-info">
 									Daniel Johnson
 									<small>Administrator</small>

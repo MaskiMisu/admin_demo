@@ -1,6 +1,9 @@
 <?php
-require('../_shared/header.php');
-require('../_shared/side-bar.php');
-
-require('../_shared/footer.php');
+require(VIEW_PATH.'_shared/header.php');
+require(VIEW_PATH.'_shared/side-bar.php');
 ?>
+<div id="content">
+this iscontent
+</div>
+<?php
+require(VIEW_PATH.'_shared/footer.php');
