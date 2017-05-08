@@ -47,6 +47,9 @@ class Framework {
 	    require DB_PATH . "Mysql.class.php";
 	    require CORE_PATH . "Model.class.php";
 
+	    // Load helpers classes
+	    require HELPER_PATH . "General.class.php";
+
 	    // Load configuration file
 	    // $GLOBALS['config'] = include CONFIG_PATH . "config.php";
 

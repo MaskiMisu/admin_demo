@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>Material Admin - Dashboard</title>
+		<title><?php echo isset($web_title) ? $web_title : 'Admin Demo' ?></title>
 
 		<!-- BEGIN META -->
 		<meta charset="utf-8">
@@ -36,8 +36,8 @@
 					<ul class="header-nav header-nav-options">
 						<li class="header-nav-brand" >
 							<div class="brand-holder">
-								<a href="../../html/dashboards/dashboard.html">
-									<span class="text-lg text-bold text-primary">MATERIAL ADMIN</span>
+								<a href="index.php">
+									<span class="text-lg text-bold text-primary"><?php echo isset($web_name) ? $web_name : 'Admin Demo' ?></span>
 								</a>
 							</div>
 						</li>
